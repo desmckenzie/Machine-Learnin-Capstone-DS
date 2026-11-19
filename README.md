@@ -1,2 +1,3 @@
 # Machine-Learnin-Capstone-DS
-        "<a href=\"https://colab.research.google.com/github/desmckenzie/Machine-Learnin-Capstone-DS/blob/main/Capstone_4_DS201.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1pYI3WYuPTLDwwKgJF65qRpgCSJ8m2AJY)
+
