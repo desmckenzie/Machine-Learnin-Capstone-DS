@@ -1,3 +1,7 @@
 # Machine-Learnin-Capstone-DS
-        [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1pYI3WYuPTLDwwKgJF65qRpgCSJ8m2AJY)
+<a href="https://colab.research.google.com/drive/1pYI3WYuPTLDwwKgJF65qRpgCSJ8m2AJY" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 
