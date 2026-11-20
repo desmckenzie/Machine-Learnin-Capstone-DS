@@ -3,5 +3,6 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[![Watch Tutorial](https://img.shields.io/badge/Watch%20Tutorial-YouTube-red?logo=youtube)](https://youtu.be/LUp5wv-U1so)
 
 
